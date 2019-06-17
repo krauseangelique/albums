@@ -1,3 +1,4 @@
 .yuku
 .yuka
 .yuki
+.yupi
